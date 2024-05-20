@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0597F2&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=05AFF2&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Fabiano+Souza;I'M+18+Years+Old;I+Am+From+Alagoas,+Brazil;I+Study+Software+Engineer;Be+Welcome!+:%29)](https://git.io/typing-svg)<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=05AFF2&size=35&center=true&vCenter=true&width=1000&lines=HELLO+,+MY+NAME+is+Fabiano+Souza;I'M+18+Years+Old;I+Am+From+Alagoas,+Brazil;I+Study+Software+Engineer;Be+Welcome!+:%29)](https://git.io/typing-svg)<br>
 
 <div>
  <img align="right" src="https://github.com/fabianosouza8/fabianosouza8/assets/170247988/dba2f10a-31c6-4682-92ae-fb8f0ca21b81)"/>
@@ -8,7 +8,7 @@
 
 <div align="left">
  
- - 🍊 oi
+ - 🍊 Oi/Hi
  
  - 🌱 I´m Currently Learning **HTML, CSS And JavaScript**.
 
@@ -18,7 +18,10 @@
   
  - 🐈 I Like Cats.
 </div>
-<br><br>
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=fabianosouza8&color=red" alt="Profile Views" /> </p>
+
+<br>
 
 <div align="center">
 
